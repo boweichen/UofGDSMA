@@ -1,0 +1,4 @@
+# About {.unnumbered}
+
+The MGT5372 Data Science for Marketing Analytics course teaches students data analytical skills by introducing popular data science methods to support decision making and evaluation in marketing. It uses a combination of lectures and workshops. The course emphasises the practical applications and makes extensive use of R for marketing data visualization and analysis.
+

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+book:
+  title: "MGT5372 Data Science for Marketing Analytics"
+  author: "Bowei Chen"
+  date: today
+  chapters:
+    - index.qmd
+
+bibliography: bibliography.bib
+
+format:
+
+  html:
+    toc: true
+    number-sections: true
+    highlight-style: github
+    cite-method: citeproc
+    theme: cosmo
+
+editor: visual
+
+
