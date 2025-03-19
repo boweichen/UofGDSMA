@@ -1,4 +1,3 @@
 # About {.unnumbered}
 
-The MGT5372 Data Science for Marketing Analytics course teaches students data analytical skills by introducing popular data science methods to support decision making and evaluation in marketing. It uses a combination of lectures and workshops. The course emphasises the practical applications and makes extensive use of R for marketing data visualization and analysis.
-
+The [MGT5372 Data Science for Marketing Analytics](https://www.gla.ac.uk/coursecatalogue/course/?code=MGT5372) is an elective course offered in the [MSc in International Strategic Marketing](https://www.gla.ac.uk/postgraduate/taught/internationalstrategicmarketing) and [MSc in Business Analytics](https://www.gla.ac.uk/postgraduate/taught/business-analytics). The course equips students with data analytical skills by introducing popular data science methods to support decision-making and evaluation in marketing. Delivered through a combination of lectures and workshops, the course emphasizes practical applications and makes extensive use of R for marketing data visualization and analysis.

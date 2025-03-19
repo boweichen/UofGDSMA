@@ -4,6 +4,10 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "About\nThe MGT5372 Data Science for Marketing Analytics course teaches students data analytical skills by introducing popular data science methods to support decision making and evaluation in marketing. It uses a combination of lectures and workshops. The course emphasises the practical applications and makes extensive use of R for marketing data visualization and analysis."
+    "text": "About\nThe MGT5372 Data Science for Marketing Analytics is an elective course offered in the MSc in International Strategic Marketing and MSc in Business Analytics. The course equips students with data analytical skills by introducing popular data science methods to support decision-making and evaluation in marketing. Delivered through a combination of lectures and workshops, the course emphasizes practical applications and makes extensive use of R for marketing data visualization and analysis.",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
   }
 ]
